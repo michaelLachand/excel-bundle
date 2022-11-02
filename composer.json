@@ -1,5 +1,5 @@
 {
-    "name": "onurb/excel-bundle",
+    "name": "tanur/excel-bundle",
     "description": "Symfony Bundle to read or write Excel file (including pdf, xlsx, odt), using phpoffice/phpspreadsheet library (replacement of phpoffice/phpexcel, abandonned)",
     "type": "symfony-bundle",
     "license": "MIT",
@@ -11,6 +11,10 @@
       {
         "name": "Giulio De Donato",
         "email": "liuggio@gmail.com"
+      },
+      {
+        "name": "Tanur Orican",
+        "email": "w.tanur@gmail.com"
       }
     ],
     "keywords": ["xls", "xlsx", "excel", "phpexcel", "spreadsheet", "symfony", "bundle"],
