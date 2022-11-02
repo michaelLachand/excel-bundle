@@ -12,7 +12,7 @@ Symfony Excel bundle
 **1**  Add to composer.json to the `require` key
 
 ``` shell
-    composer require onurb/excel-bundle
+    composer require tanur/excel-bundle
 ```
 
 or manually in composer.json
@@ -20,7 +20,7 @@ or manually in composer.json
     ...,
     "require": {
             ...,
-            "onurb/excel-bundle":     "~1.0"
+            "tanur/excel-bundle":     "~1.0"
         },
     ...
 ```
